@@ -1,6 +1,3 @@
-Here's a README.md for your notes app:
-
-```markdown
 # Notesy - A Modern Notes Application
 
 A clean, responsive notes application built with React.js and Node.js that features real-time saving and dark mode support.
@@ -132,25 +129,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Express.js documentation
 ```
 
-This README.md provides:
-- Clear installation instructions
-- Project structure overview
-- Running instructions
-- Feature explanations
-- API documentation
-- Contributing guidelines
-
-You might want to customize:
-- The repository URL
-- License information
-- Any specific acknowledgments
-- Additional features or requirements specific to your implementation
-
-You can also add:
-- Screenshots of the application
-- More detailed API documentation
-- Troubleshooting section
-- Version information
-- Contact information
-
-Would you like me to expand on any section of the README?
